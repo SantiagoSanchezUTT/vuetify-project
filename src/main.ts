@@ -21,3 +21,6 @@ const app = createApp(App)
 registerPlugins(app)
 
 app.mount('#app')
+
+import '@mdi/font/css/materialdesignicons.css';
+
